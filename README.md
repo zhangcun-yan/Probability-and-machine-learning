@@ -1,2 +1,3 @@
-# Probability-and-machine-learning
-This project record the processor of study Probability and machine learning
+# 概率与机器学习在工程中的应用
+
+这项目主要记录自己在蒙特利尔理工学院联合培养阶段，旁听该学院地质、土木与采矿学院研究生专业基础课的内容和相关的基础数学理论知识。
